@@ -1,4 +1,5 @@
 import { fetchPokemon } from './data.js';
+
 // Puxar os elementos do HTML
 
 const pokemonName = document.querySelector('.pokemon__name');
